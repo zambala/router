@@ -1,0 +1,16 @@
+GET
+
+Whenever retreaving the data or viewing something.
+it is used if need only to fetch some data
+
+the request is appended to the query string
+
+POST
+
+whenever need to save to Database
+to store data or make changes to data
+
+hidden from URL
+
+$_GET
+$_POST

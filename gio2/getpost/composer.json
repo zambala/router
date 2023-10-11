@@ -1,0 +1,20 @@
+{
+    "name": "dell/getpost",
+    "autoload": {
+        "psr-4": {
+            "Dell\\Getpost\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zambala",
+            "email": "redzambala@gmx.es"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "classes\\":  "classes/"
+        }
+    }
+}
